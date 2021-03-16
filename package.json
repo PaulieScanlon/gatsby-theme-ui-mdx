@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-theme-ui-mdx",
+  "version": "1.0.0",
+  "description": "A demo for scott",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-theme-ui-mdx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-theme-ui-mdx/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-theme-ui-mdx#readme",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@theme-ui/presets": "^0.3.5",
+    "gatsby": "^3.0.4",
+    "gatsby-plugin-mdx": "^2.0.1",
+    "gatsby-plugin-theme-ui": "^0.3.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "theme-ui": "^0.3.5"
+  }
+}
